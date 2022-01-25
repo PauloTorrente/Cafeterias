@@ -1,0 +1,71 @@
+body,html {
+    margin: 0;
+    background-color: purple;
+
+}
+
+
+.encabezado {
+    padding: 1%;
+    color: white;
+    background-color: purple(199, 134, 50, 0.589);
+    padding-bottom: 0,1%;
+        
+}
+
+
+
+hr {
+    border-bottom: 0px;
+    border-color: black;
+    width: 100vw;
+}
+
+.texto-morado {
+    color:white;
+}
+
+
+.carta {
+    position: relative;
+    padding-top: 10px;
+    left: 1%;
+}
+
+.cafe {
+    display: inline;
+    position: relative;
+    left: 40%;
+}
+
+.contacto {
+    display: inline;
+    position: relative;
+    right: -70%;
+    bottom: -200px;
+}
+
+.titulo-pagina {
+    text-align: center;
+}
+
+footer {
+    background-color:purple(199, 134, 50, 0.589);
+    text-align: center;
+    width: 100%;
+    position: absolute;
+    bottom: 0;
+    padding-bottom: 1em 0;
+    padding-top: 0.5em;
+    font-weight: bold;
+
+}
+
+.cursiva {
+    font-style: italic;
+}
+
+a{
+    color: white;
+    text-decoration: none;
+}
